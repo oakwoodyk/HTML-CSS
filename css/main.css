@@ -25,6 +25,10 @@ body{
   border:solid 10px grey;
 }
 
+.pic{
+  height:200px;
+}
+
 .operation_title{
   color:steelblue;
   padding-top: 4%;
