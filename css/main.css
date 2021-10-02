@@ -37,16 +37,20 @@ body{
 .list li {
   list-style: none;
   padding: 2% 3%;
+  text-decoration: underline;
 }
 
 .list {
   display: flex;
   justify-content: center;
   padding-bottom: 20px;
+
 }
-.action:hover{
-  color:hotpink;
+.action:hover,
+#chat:hover{
+      color:hotpink;
 }
+
 
 .copyright{
   color:gray;
